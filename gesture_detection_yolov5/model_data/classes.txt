@@ -1,0 +1,10 @@
+rock
+fine
+number 1
+nonono
+L
+number 2
+number 3
+number 6
+OK
+number 5
